@@ -1,0 +1,1001 @@
+Round,Player1_Move,Player2_Move,Winner,P1_Total_Score,P2_Total_Score
+1,R,S,Player 1,1,0
+2,S,P,Player 1,2,0
+3,P,R,Player 1,3,0
+4,P,R,Player 1,4,0
+5,R,S,Player 1,5,0
+6,S,P,Player 1,6,0
+7,P,R,Player 1,7,0
+8,P,S,Player 2,7,1
+9,R,S,Player 1,8,1
+10,S,S,Draw,8,1
+11,S,S,Draw,8,1
+12,S,R,Player 2,8,2
+13,P,R,Player 1,9,2
+14,R,R,Draw,9,2
+15,R,R,Draw,9,2
+16,R,R,Draw,9,2
+17,R,P,Player 2,9,3
+18,S,P,Player 1,10,3
+19,P,P,Draw,10,3
+20,S,P,Player 1,11,3
+21,S,R,Player 2,11,4
+22,R,R,Draw,11,4
+23,R,R,Draw,11,4
+24,R,P,Player 2,11,5
+25,S,P,Player 1,12,5
+26,P,P,Draw,12,5
+27,S,P,Player 1,13,5
+28,S,R,Player 2,13,6
+29,R,R,Draw,13,6
+30,R,R,Draw,13,6
+31,R,P,Player 2,13,7
+32,S,P,Player 1,14,7
+33,P,P,Draw,14,7
+34,S,P,Player 1,15,7
+35,S,R,Player 2,15,8
+36,R,R,Draw,15,8
+37,R,R,Draw,15,8
+38,R,P,Player 2,15,9
+39,S,P,Player 1,16,9
+40,P,P,Draw,16,9
+41,S,P,Player 1,17,9
+42,S,R,Player 2,17,10
+43,R,R,Draw,17,10
+44,R,R,Draw,17,10
+45,S,P,Player 1,18,10
+46,S,R,Player 2,18,11
+47,S,R,Player 2,18,12
+48,R,R,Draw,18,12
+49,S,R,Player 2,18,13
+50,S,R,Player 2,18,14
+51,S,R,Player 2,18,15
+52,S,R,Player 2,18,16
+53,S,R,Player 2,18,17
+54,S,R,Player 2,18,18
+55,P,R,Player 1,19,18
+56,P,R,Player 1,20,18
+57,P,R,Player 1,21,18
+58,P,R,Player 1,22,18
+59,P,R,Player 1,23,18
+60,P,R,Player 1,24,18
+61,P,R,Player 1,25,18
+62,P,R,Player 1,26,18
+63,P,R,Player 1,27,18
+64,P,R,Player 1,28,18
+65,P,R,Player 1,29,18
+66,P,R,Player 1,30,18
+67,P,R,Player 1,31,18
+68,P,R,Player 1,32,18
+69,P,R,Player 1,33,18
+70,P,R,Player 1,34,18
+71,P,R,Player 1,35,18
+72,P,R,Player 1,36,18
+73,P,S,Player 2,36,19
+74,S,S,Draw,36,19
+75,S,S,Draw,36,19
+76,S,R,Player 2,36,20
+77,P,R,Player 1,37,20
+78,R,R,Draw,37,20
+79,P,R,Player 1,38,20
+80,P,S,Player 2,38,21
+81,S,S,Draw,38,21
+82,S,S,Draw,38,21
+83,S,R,Player 2,38,22
+84,P,R,Player 1,39,22
+85,R,R,Draw,39,22
+86,P,R,Player 1,40,22
+87,P,S,Player 2,40,23
+88,S,S,Draw,40,23
+89,S,S,Draw,40,23
+90,S,R,Player 2,40,24
+91,P,R,Player 1,41,24
+92,P,R,Player 1,42,24
+93,P,S,Player 2,42,25
+94,S,S,Draw,42,25
+95,S,S,Draw,42,25
+96,S,R,Player 2,42,26
+97,P,R,Player 1,43,26
+98,P,R,Player 1,44,26
+99,P,S,Player 2,44,27
+100,S,S,Draw,44,27
+101,S,S,Draw,44,27
+102,S,R,Player 2,44,28
+103,P,R,Player 1,45,28
+104,P,R,Player 1,46,28
+105,P,S,Player 2,46,29
+106,S,S,Draw,46,29
+107,S,S,Draw,46,29
+108,S,R,Player 2,46,30
+109,P,R,Player 1,47,30
+110,P,R,Player 1,48,30
+111,P,S,Player 2,48,31
+112,S,S,Draw,48,31
+113,S,S,Draw,48,31
+114,S,R,Player 2,48,32
+115,P,R,Player 1,49,32
+116,P,R,Player 1,50,32
+117,P,S,Player 2,50,33
+118,S,S,Draw,50,33
+119,S,S,Draw,50,33
+120,S,R,Player 2,50,34
+121,P,R,Player 1,51,34
+122,P,R,Player 1,52,34
+123,P,S,Player 2,52,35
+124,S,S,Draw,52,35
+125,S,S,Draw,52,35
+126,S,R,Player 2,52,36
+127,P,R,Player 1,53,36
+128,P,R,Player 1,54,36
+129,P,S,Player 2,54,37
+130,S,S,Draw,54,37
+131,S,S,Draw,54,37
+132,S,R,Player 2,54,38
+133,P,R,Player 1,55,38
+134,P,R,Player 1,56,38
+135,P,S,Player 2,56,39
+136,S,S,Draw,56,39
+137,S,S,Draw,56,39
+138,P,R,Player 1,57,39
+139,P,S,Player 2,57,40
+140,R,S,Player 1,58,40
+141,S,S,Draw,58,40
+142,P,S,Player 2,58,41
+143,P,S,Player 2,58,42
+144,P,S,Player 2,58,43
+145,P,S,Player 2,58,44
+146,P,S,Player 2,58,45
+147,P,S,Player 2,58,46
+148,P,S,Player 2,58,47
+149,P,S,Player 2,58,48
+150,P,S,Player 2,58,49
+151,P,S,Player 2,58,50
+152,P,S,Player 2,58,51
+153,R,S,Player 1,59,51
+154,R,S,Player 1,60,51
+155,R,S,Player 1,61,51
+156,R,S,Player 1,62,51
+157,R,S,Player 1,63,51
+158,R,S,Player 1,64,51
+159,R,S,Player 1,65,51
+160,R,S,Player 1,66,51
+161,R,S,Player 1,67,51
+162,R,S,Player 1,68,51
+163,R,S,Player 1,69,51
+164,R,S,Player 1,70,51
+165,R,S,Player 1,71,51
+166,R,S,Player 1,72,51
+167,R,S,Player 1,73,51
+168,R,S,Player 1,74,51
+169,R,S,Player 1,75,51
+170,R,S,Player 1,76,51
+171,R,S,Player 1,77,51
+172,R,S,Player 1,78,51
+173,R,S,Player 1,79,51
+174,R,S,Player 1,80,51
+175,R,S,Player 1,81,51
+176,R,S,Player 1,82,51
+177,R,S,Player 1,83,51
+178,R,S,Player 1,84,51
+179,R,S,Player 1,85,51
+180,R,S,Player 1,86,51
+181,R,S,Player 1,87,51
+182,R,S,Player 1,88,51
+183,R,S,Player 1,89,51
+184,R,S,Player 1,90,51
+185,R,S,Player 1,91,51
+186,R,S,Player 1,92,51
+187,R,S,Player 1,93,51
+188,R,S,Player 1,94,51
+189,R,S,Player 1,95,51
+190,R,S,Player 1,96,51
+191,R,S,Player 1,97,51
+192,R,S,Player 1,98,51
+193,R,S,Player 1,99,51
+194,R,S,Player 1,100,51
+195,R,S,Player 1,101,51
+196,R,S,Player 1,102,51
+197,R,S,Player 1,103,51
+198,R,S,Player 1,104,51
+199,R,S,Player 1,105,51
+200,R,S,Player 1,106,51
+201,R,S,Player 1,107,51
+202,R,P,Player 2,107,52
+203,P,P,Draw,107,52
+204,P,P,Draw,107,52
+205,S,S,Draw,107,52
+206,P,S,Player 2,107,53
+207,P,S,Player 2,107,54
+208,R,S,Player 1,108,54
+209,R,S,Player 1,109,54
+210,R,S,Player 1,110,54
+211,R,P,Player 2,110,55
+212,P,P,Draw,110,55
+213,P,P,Draw,110,55
+214,S,S,Draw,110,55
+215,P,S,Player 2,110,56
+216,P,S,Player 2,110,57
+217,R,S,Player 1,111,57
+218,R,S,Player 1,112,57
+219,R,S,Player 1,113,57
+220,R,P,Player 2,113,58
+221,P,P,Draw,113,58
+222,P,P,Draw,113,58
+223,S,S,Draw,113,58
+224,P,S,Player 2,113,59
+225,R,S,Player 1,114,59
+226,R,S,Player 1,115,59
+227,R,P,Player 2,115,60
+228,P,P,Draw,115,60
+229,P,P,Draw,115,60
+230,S,S,Draw,115,60
+231,P,S,Player 2,115,61
+232,R,S,Player 1,116,61
+233,R,S,Player 1,117,61
+234,R,P,Player 2,117,62
+235,P,P,Draw,117,62
+236,P,P,Draw,117,62
+237,S,S,Draw,117,62
+238,P,S,Player 2,117,63
+239,R,S,Player 1,118,63
+240,R,S,Player 1,119,63
+241,R,P,Player 2,119,64
+242,P,P,Draw,119,64
+243,P,P,Draw,119,64
+244,S,S,Draw,119,64
+245,P,S,Player 2,119,65
+246,R,S,Player 1,120,65
+247,R,S,Player 1,121,65
+248,R,P,Player 2,121,66
+249,P,P,Draw,121,66
+250,P,P,Draw,121,66
+251,S,S,Draw,121,66
+252,R,S,Player 1,122,66
+253,R,P,Player 2,122,67
+254,P,P,Draw,122,67
+255,P,P,Draw,122,67
+256,S,S,Draw,122,67
+257,R,S,Player 1,123,67
+258,R,P,Player 2,123,68
+259,P,P,Draw,123,68
+260,P,P,Draw,123,68
+261,S,S,Draw,123,68
+262,R,S,Player 1,124,68
+263,R,P,Player 2,124,69
+264,P,P,Draw,124,69
+265,P,P,Draw,124,69
+266,S,S,Draw,124,69
+267,R,S,Player 1,125,69
+268,R,P,Player 2,125,70
+269,P,P,Draw,125,70
+270,P,P,Draw,125,70
+271,S,S,Draw,125,70
+272,R,S,Player 1,126,70
+273,R,P,Player 2,126,71
+274,P,P,Draw,126,71
+275,P,P,Draw,126,71
+276,S,S,Draw,126,71
+277,R,S,Player 1,127,71
+278,R,P,Player 2,127,72
+279,P,P,Draw,127,72
+280,P,P,Draw,127,72
+281,S,S,Draw,127,72
+282,R,S,Player 1,128,72
+283,R,P,Player 2,128,73
+284,P,P,Draw,128,73
+285,P,P,Draw,128,73
+286,S,S,Draw,128,73
+287,R,S,Player 1,129,73
+288,S,P,Player 1,130,73
+289,P,P,Draw,130,73
+290,P,S,Player 2,130,74
+291,R,S,Player 1,131,74
+292,S,S,Draw,131,74
+293,R,S,Player 1,132,74
+294,R,P,Player 2,132,75
+295,P,P,Draw,132,75
+296,P,P,Draw,132,75
+297,S,S,Draw,132,75
+298,R,S,Player 1,133,75
+299,S,P,Player 1,134,75
+300,P,P,Draw,134,75
+301,P,S,Player 2,134,76
+302,R,S,Player 1,135,76
+303,S,S,Draw,135,76
+304,R,S,Player 1,136,76
+305,R,P,Player 2,136,77
+306,P,P,Draw,136,77
+307,P,P,Draw,136,77
+308,S,S,Draw,136,77
+309,R,S,Player 1,137,77
+310,S,P,Player 1,138,77
+311,P,P,Draw,138,77
+312,P,S,Player 2,138,78
+313,R,S,Player 1,139,78
+314,S,S,Draw,139,78
+315,R,S,Player 1,140,78
+316,R,P,Player 2,140,79
+317,P,P,Draw,140,79
+318,P,P,Draw,140,79
+319,S,S,Draw,140,79
+320,R,S,Player 1,141,79
+321,S,P,Player 1,142,79
+322,P,P,Draw,142,79
+323,P,S,Player 2,142,80
+324,R,S,Player 1,143,80
+325,S,S,Draw,143,80
+326,R,S,Player 1,144,80
+327,R,P,Player 2,144,81
+328,P,P,Draw,144,81
+329,P,P,Draw,144,81
+330,S,S,Draw,144,81
+331,R,S,Player 1,145,81
+332,S,P,Player 1,146,81
+333,P,P,Draw,146,81
+334,P,S,Player 2,146,82
+335,R,S,Player 1,147,82
+336,S,S,Draw,147,82
+337,R,S,Player 1,148,82
+338,R,P,Player 2,148,83
+339,P,P,Draw,148,83
+340,P,P,Draw,148,83
+341,S,S,Draw,148,83
+342,R,S,Player 1,149,83
+343,S,P,Player 1,150,83
+344,P,P,Draw,150,83
+345,P,S,Player 2,150,84
+346,R,S,Player 1,151,84
+347,S,S,Draw,151,84
+348,R,S,Player 1,152,84
+349,R,P,Player 2,152,85
+350,P,P,Draw,152,85
+351,P,P,Draw,152,85
+352,S,S,Draw,152,85
+353,R,S,Player 1,153,85
+354,S,P,Player 1,154,85
+355,P,P,Draw,154,85
+356,P,S,Player 2,154,86
+357,R,S,Player 1,155,86
+358,S,S,Draw,155,86
+359,R,S,Player 1,156,86
+360,R,P,Player 2,156,87
+361,P,P,Draw,156,87
+362,P,P,Draw,156,87
+363,S,S,Draw,156,87
+364,R,S,Player 1,157,87
+365,S,P,Player 1,158,87
+366,P,P,Draw,158,87
+367,P,S,Player 2,158,88
+368,R,S,Player 1,159,88
+369,S,S,Draw,159,88
+370,R,S,Player 1,160,88
+371,R,P,Player 2,160,89
+372,P,P,Draw,160,89
+373,P,P,Draw,160,89
+374,S,S,Draw,160,89
+375,R,S,Player 1,161,89
+376,S,P,Player 1,162,89
+377,P,P,Draw,162,89
+378,P,S,Player 2,162,90
+379,R,S,Player 1,163,90
+380,S,S,Draw,163,90
+381,R,S,Player 1,164,90
+382,R,P,Player 2,164,91
+383,P,P,Draw,164,91
+384,P,P,Draw,164,91
+385,S,S,Draw,164,91
+386,R,S,Player 1,165,91
+387,S,P,Player 1,166,91
+388,P,P,Draw,166,91
+389,P,S,Player 2,166,92
+390,R,S,Player 1,167,92
+391,S,S,Draw,167,92
+392,R,S,Player 1,168,92
+393,R,P,Player 2,168,93
+394,P,P,Draw,168,93
+395,P,P,Draw,168,93
+396,S,S,Draw,168,93
+397,R,S,Player 1,169,93
+398,S,P,Player 1,170,93
+399,P,P,Draw,170,93
+400,P,S,Player 2,170,94
+401,R,S,Player 1,171,94
+402,S,S,Draw,171,94
+403,R,S,Player 1,172,94
+404,R,P,Player 2,172,95
+405,P,P,Draw,172,95
+406,P,P,Draw,172,95
+407,S,S,Draw,172,95
+408,R,S,Player 1,173,95
+409,S,P,Player 1,174,95
+410,P,P,Draw,174,95
+411,P,S,Player 2,174,96
+412,R,S,Player 1,175,96
+413,S,S,Draw,175,96
+414,R,S,Player 1,176,96
+415,R,P,Player 2,176,97
+416,P,P,Draw,176,97
+417,P,P,Draw,176,97
+418,S,S,Draw,176,97
+419,R,S,Player 1,177,97
+420,S,P,Player 1,178,97
+421,P,P,Draw,178,97
+422,P,S,Player 2,178,98
+423,R,S,Player 1,179,98
+424,S,S,Draw,179,98
+425,R,S,Player 1,180,98
+426,R,P,Player 2,180,99
+427,P,P,Draw,180,99
+428,P,P,Draw,180,99
+429,S,S,Draw,180,99
+430,R,S,Player 1,181,99
+431,S,P,Player 1,182,99
+432,P,P,Draw,182,99
+433,P,S,Player 2,182,100
+434,R,S,Player 1,183,100
+435,S,S,Draw,183,100
+436,R,S,Player 1,184,100
+437,R,P,Player 2,184,101
+438,P,P,Draw,184,101
+439,P,P,Draw,184,101
+440,S,S,Draw,184,101
+441,R,S,Player 1,185,101
+442,S,P,Player 1,186,101
+443,P,P,Draw,186,101
+444,P,S,Player 2,186,102
+445,R,S,Player 1,187,102
+446,S,S,Draw,187,102
+447,R,S,Player 1,188,102
+448,R,P,Player 2,188,103
+449,P,P,Draw,188,103
+450,P,P,Draw,188,103
+451,S,S,Draw,188,103
+452,R,S,Player 1,189,103
+453,S,P,Player 1,190,103
+454,P,P,Draw,190,103
+455,P,S,Player 2,190,104
+456,R,S,Player 1,191,104
+457,S,S,Draw,191,104
+458,R,S,Player 1,192,104
+459,R,P,Player 2,192,105
+460,P,P,Draw,192,105
+461,P,P,Draw,192,105
+462,S,S,Draw,192,105
+463,R,S,Player 1,193,105
+464,S,P,Player 1,194,105
+465,P,P,Draw,194,105
+466,P,S,Player 2,194,106
+467,R,S,Player 1,195,106
+468,S,S,Draw,195,106
+469,R,S,Player 1,196,106
+470,R,P,Player 2,196,107
+471,P,P,Draw,196,107
+472,P,P,Draw,196,107
+473,S,S,Draw,196,107
+474,R,S,Player 1,197,107
+475,S,P,Player 1,198,107
+476,P,P,Draw,198,107
+477,P,S,Player 2,198,108
+478,R,S,Player 1,199,108
+479,S,S,Draw,199,108
+480,R,S,Player 1,200,108
+481,R,P,Player 2,200,109
+482,P,P,Draw,200,109
+483,P,P,Draw,200,109
+484,S,S,Draw,200,109
+485,R,S,Player 1,201,109
+486,S,P,Player 1,202,109
+487,P,P,Draw,202,109
+488,P,S,Player 2,202,110
+489,R,S,Player 1,203,110
+490,S,S,Draw,203,110
+491,R,S,Player 1,204,110
+492,R,P,Player 2,204,111
+493,P,P,Draw,204,111
+494,P,P,Draw,204,111
+495,S,S,Draw,204,111
+496,R,S,Player 1,205,111
+497,S,P,Player 1,206,111
+498,P,P,Draw,206,111
+499,P,S,Player 2,206,112
+500,R,S,Player 1,207,112
+501,S,S,Draw,207,112
+502,R,S,Player 1,208,112
+503,R,P,Player 2,208,113
+504,P,P,Draw,208,113
+505,P,P,Draw,208,113
+506,S,S,Draw,208,113
+507,R,S,Player 1,209,113
+508,S,P,Player 1,210,113
+509,P,P,Draw,210,113
+510,P,S,Player 2,210,114
+511,R,S,Player 1,211,114
+512,S,S,Draw,211,114
+513,R,S,Player 1,212,114
+514,R,P,Player 2,212,115
+515,P,P,Draw,212,115
+516,P,P,Draw,212,115
+517,S,S,Draw,212,115
+518,R,S,Player 1,213,115
+519,S,P,Player 1,214,115
+520,P,P,Draw,214,115
+521,P,S,Player 2,214,116
+522,R,S,Player 1,215,116
+523,S,S,Draw,215,116
+524,R,S,Player 1,216,116
+525,R,P,Player 2,216,117
+526,P,P,Draw,216,117
+527,P,P,Draw,216,117
+528,S,S,Draw,216,117
+529,R,S,Player 1,217,117
+530,S,P,Player 1,218,117
+531,P,P,Draw,218,117
+532,P,S,Player 2,218,118
+533,R,S,Player 1,219,118
+534,S,S,Draw,219,118
+535,R,S,Player 1,220,118
+536,R,P,Player 2,220,119
+537,P,P,Draw,220,119
+538,P,P,Draw,220,119
+539,S,S,Draw,220,119
+540,R,S,Player 1,221,119
+541,S,P,Player 1,222,119
+542,P,P,Draw,222,119
+543,P,S,Player 2,222,120
+544,R,S,Player 1,223,120
+545,S,S,Draw,223,120
+546,R,S,Player 1,224,120
+547,R,P,Player 2,224,121
+548,P,P,Draw,224,121
+549,P,P,Draw,224,121
+550,S,S,Draw,224,121
+551,R,S,Player 1,225,121
+552,S,P,Player 1,226,121
+553,P,P,Draw,226,121
+554,P,S,Player 2,226,122
+555,R,S,Player 1,227,122
+556,S,S,Draw,227,122
+557,R,S,Player 1,228,122
+558,R,P,Player 2,228,123
+559,P,P,Draw,228,123
+560,P,P,Draw,228,123
+561,S,S,Draw,228,123
+562,R,S,Player 1,229,123
+563,S,P,Player 1,230,123
+564,P,P,Draw,230,123
+565,P,S,Player 2,230,124
+566,R,S,Player 1,231,124
+567,S,S,Draw,231,124
+568,R,S,Player 1,232,124
+569,R,P,Player 2,232,125
+570,P,P,Draw,232,125
+571,P,P,Draw,232,125
+572,S,S,Draw,232,125
+573,R,S,Player 1,233,125
+574,S,P,Player 1,234,125
+575,P,P,Draw,234,125
+576,P,S,Player 2,234,126
+577,R,S,Player 1,235,126
+578,S,S,Draw,235,126
+579,R,S,Player 1,236,126
+580,R,P,Player 2,236,127
+581,P,P,Draw,236,127
+582,P,P,Draw,236,127
+583,S,S,Draw,236,127
+584,R,S,Player 1,237,127
+585,S,P,Player 1,238,127
+586,P,P,Draw,238,127
+587,P,S,Player 2,238,128
+588,R,S,Player 1,239,128
+589,S,S,Draw,239,128
+590,R,S,Player 1,240,128
+591,R,P,Player 2,240,129
+592,P,P,Draw,240,129
+593,P,P,Draw,240,129
+594,S,S,Draw,240,129
+595,R,S,Player 1,241,129
+596,S,P,Player 1,242,129
+597,P,P,Draw,242,129
+598,P,S,Player 2,242,130
+599,R,S,Player 1,243,130
+600,S,S,Draw,243,130
+601,R,S,Player 1,244,130
+602,R,P,Player 2,244,131
+603,P,P,Draw,244,131
+604,P,P,Draw,244,131
+605,S,S,Draw,244,131
+606,R,S,Player 1,245,131
+607,S,P,Player 1,246,131
+608,P,P,Draw,246,131
+609,P,S,Player 2,246,132
+610,R,S,Player 1,247,132
+611,S,S,Draw,247,132
+612,R,S,Player 1,248,132
+613,R,P,Player 2,248,133
+614,P,P,Draw,248,133
+615,P,P,Draw,248,133
+616,S,S,Draw,248,133
+617,R,S,Player 1,249,133
+618,S,P,Player 1,250,133
+619,P,P,Draw,250,133
+620,P,S,Player 2,250,134
+621,R,S,Player 1,251,134
+622,S,S,Draw,251,134
+623,R,S,Player 1,252,134
+624,R,P,Player 2,252,135
+625,P,P,Draw,252,135
+626,P,P,Draw,252,135
+627,S,S,Draw,252,135
+628,R,S,Player 1,253,135
+629,S,P,Player 1,254,135
+630,S,P,Player 1,255,135
+631,P,P,Draw,255,135
+632,S,S,Draw,255,135
+633,R,S,Player 1,256,135
+634,S,P,Player 1,257,135
+635,S,P,Player 1,258,135
+636,P,P,Draw,258,135
+637,S,S,Draw,258,135
+638,R,S,Player 1,259,135
+639,S,P,Player 1,260,135
+640,S,P,Player 1,261,135
+641,P,P,Draw,261,135
+642,S,S,Draw,261,135
+643,R,S,Player 1,262,135
+644,S,P,Player 1,263,135
+645,S,P,Player 1,264,135
+646,P,P,Draw,264,135
+647,S,S,Draw,264,135
+648,R,S,Player 1,265,135
+649,S,P,Player 1,266,135
+650,S,P,Player 1,267,135
+651,P,P,Draw,267,135
+652,S,S,Draw,267,135
+653,R,S,Player 1,268,135
+654,S,P,Player 1,269,135
+655,S,P,Player 1,270,135
+656,P,P,Draw,270,135
+657,S,S,Draw,270,135
+658,R,S,Player 1,271,135
+659,S,P,Player 1,272,135
+660,S,P,Player 1,273,135
+661,P,P,Draw,273,135
+662,S,S,Draw,273,135
+663,R,S,Player 1,274,135
+664,S,P,Player 1,275,135
+665,S,P,Player 1,276,135
+666,P,P,Draw,276,135
+667,S,S,Draw,276,135
+668,R,S,Player 1,277,135
+669,S,P,Player 1,278,135
+670,S,P,Player 1,279,135
+671,P,P,Draw,279,135
+672,S,S,Draw,279,135
+673,R,S,Player 1,280,135
+674,S,P,Player 1,281,135
+675,S,P,Player 1,282,135
+676,P,P,Draw,282,135
+677,S,S,Draw,282,135
+678,R,S,Player 1,283,135
+679,S,P,Player 1,284,135
+680,S,P,Player 1,285,135
+681,P,P,Draw,285,135
+682,S,S,Draw,285,135
+683,R,S,Player 1,286,135
+684,S,P,Player 1,287,135
+685,S,P,Player 1,288,135
+686,P,P,Draw,288,135
+687,S,S,Draw,288,135
+688,R,S,Player 1,289,135
+689,S,P,Player 1,290,135
+690,S,P,Player 1,291,135
+691,P,P,Draw,291,135
+692,S,S,Draw,291,135
+693,R,S,Player 1,292,135
+694,S,P,Player 1,293,135
+695,S,P,Player 1,294,135
+696,P,P,Draw,294,135
+697,S,S,Draw,294,135
+698,R,S,Player 1,295,135
+699,S,P,Player 1,296,135
+700,S,P,Player 1,297,135
+701,P,P,Draw,297,135
+702,S,S,Draw,297,135
+703,R,S,Player 1,298,135
+704,S,P,Player 1,299,135
+705,S,P,Player 1,300,135
+706,P,P,Draw,300,135
+707,S,S,Draw,300,135
+708,R,S,Player 1,301,135
+709,S,P,Player 1,302,135
+710,S,P,Player 1,303,135
+711,P,P,Draw,303,135
+712,S,S,Draw,303,135
+713,R,S,Player 1,304,135
+714,S,P,Player 1,305,135
+715,S,P,Player 1,306,135
+716,P,P,Draw,306,135
+717,S,S,Draw,306,135
+718,R,S,Player 1,307,135
+719,S,P,Player 1,308,135
+720,S,P,Player 1,309,135
+721,P,P,Draw,309,135
+722,S,S,Draw,309,135
+723,R,S,Player 1,310,135
+724,S,P,Player 1,311,135
+725,S,P,Player 1,312,135
+726,P,P,Draw,312,135
+727,S,S,Draw,312,135
+728,R,S,Player 1,313,135
+729,S,P,Player 1,314,135
+730,S,P,Player 1,315,135
+731,P,P,Draw,315,135
+732,S,S,Draw,315,135
+733,R,S,Player 1,316,135
+734,S,P,Player 1,317,135
+735,S,P,Player 1,318,135
+736,P,P,Draw,318,135
+737,S,S,Draw,318,135
+738,R,S,Player 1,319,135
+739,S,P,Player 1,320,135
+740,S,P,Player 1,321,135
+741,P,P,Draw,321,135
+742,S,S,Draw,321,135
+743,R,S,Player 1,322,135
+744,S,P,Player 1,323,135
+745,S,P,Player 1,324,135
+746,P,P,Draw,324,135
+747,S,S,Draw,324,135
+748,R,S,Player 1,325,135
+749,S,P,Player 1,326,135
+750,S,P,Player 1,327,135
+751,P,P,Draw,327,135
+752,S,S,Draw,327,135
+753,R,S,Player 1,328,135
+754,S,P,Player 1,329,135
+755,S,P,Player 1,330,135
+756,P,P,Draw,330,135
+757,S,S,Draw,330,135
+758,R,S,Player 1,331,135
+759,S,P,Player 1,332,135
+760,S,P,Player 1,333,135
+761,P,P,Draw,333,135
+762,S,S,Draw,333,135
+763,R,S,Player 1,334,135
+764,S,P,Player 1,335,135
+765,S,P,Player 1,336,135
+766,P,P,Draw,336,135
+767,S,S,Draw,336,135
+768,R,S,Player 1,337,135
+769,S,P,Player 1,338,135
+770,S,P,Player 1,339,135
+771,P,P,Draw,339,135
+772,S,S,Draw,339,135
+773,R,S,Player 1,340,135
+774,S,P,Player 1,341,135
+775,S,P,Player 1,342,135
+776,P,P,Draw,342,135
+777,S,S,Draw,342,135
+778,R,S,Player 1,343,135
+779,S,P,Player 1,344,135
+780,S,P,Player 1,345,135
+781,P,P,Draw,345,135
+782,S,S,Draw,345,135
+783,R,S,Player 1,346,135
+784,S,P,Player 1,347,135
+785,S,P,Player 1,348,135
+786,P,P,Draw,348,135
+787,S,S,Draw,348,135
+788,R,S,Player 1,349,135
+789,S,P,Player 1,350,135
+790,S,R,Player 2,350,136
+791,P,R,Player 1,351,136
+792,R,R,Draw,351,136
+793,P,R,Player 1,352,136
+794,P,S,Player 2,352,137
+795,S,S,Draw,352,137
+796,S,S,Draw,352,137
+797,R,R,Draw,352,137
+798,P,R,Player 1,353,137
+799,P,S,Player 2,353,138
+800,S,S,Draw,353,138
+801,S,S,Draw,353,138
+802,R,R,Draw,353,138
+803,P,R,Player 1,354,138
+804,P,S,Player 2,354,139
+805,S,S,Draw,354,139
+806,S,S,Draw,354,139
+807,R,R,Draw,354,139
+808,P,R,Player 1,355,139
+809,P,S,Player 2,355,140
+810,S,S,Draw,355,140
+811,S,S,Draw,355,140
+812,R,R,Draw,355,140
+813,P,R,Player 1,356,140
+814,P,S,Player 2,356,141
+815,S,S,Draw,356,141
+816,S,S,Draw,356,141
+817,R,R,Draw,356,141
+818,P,R,Player 1,357,141
+819,P,S,Player 2,357,142
+820,S,S,Draw,357,142
+821,S,S,Draw,357,142
+822,R,R,Draw,357,142
+823,P,R,Player 1,358,142
+824,P,S,Player 2,358,143
+825,S,S,Draw,358,143
+826,S,S,Draw,358,143
+827,R,R,Draw,358,143
+828,P,R,Player 1,359,143
+829,P,S,Player 2,359,144
+830,S,S,Draw,359,144
+831,S,S,Draw,359,144
+832,R,R,Draw,359,144
+833,P,R,Player 1,360,144
+834,P,S,Player 2,360,145
+835,S,S,Draw,360,145
+836,S,S,Draw,360,145
+837,R,R,Draw,360,145
+838,P,R,Player 1,361,145
+839,P,S,Player 2,361,146
+840,S,S,Draw,361,146
+841,S,S,Draw,361,146
+842,R,R,Draw,361,146
+843,P,R,Player 1,362,146
+844,R,S,Player 1,363,146
+845,S,S,Draw,363,146
+846,S,R,Player 2,363,147
+847,P,R,Player 1,364,147
+848,R,R,Draw,364,147
+849,P,R,Player 1,365,147
+850,P,S,Player 2,365,148
+851,S,S,Draw,365,148
+852,S,S,Draw,365,148
+853,R,R,Draw,365,148
+854,P,R,Player 1,366,148
+855,R,S,Player 1,367,148
+856,S,S,Draw,367,148
+857,S,R,Player 2,367,149
+858,P,R,Player 1,368,149
+859,R,R,Draw,368,149
+860,P,R,Player 1,369,149
+861,P,S,Player 2,369,150
+862,S,S,Draw,369,150
+863,S,S,Draw,369,150
+864,R,R,Draw,369,150
+865,P,R,Player 1,370,150
+866,R,S,Player 1,371,150
+867,S,S,Draw,371,150
+868,S,R,Player 2,371,151
+869,P,R,Player 1,372,151
+870,R,R,Draw,372,151
+871,P,R,Player 1,373,151
+872,P,S,Player 2,373,152
+873,S,S,Draw,373,152
+874,S,S,Draw,373,152
+875,R,R,Draw,373,152
+876,P,R,Player 1,374,152
+877,R,S,Player 1,375,152
+878,S,S,Draw,375,152
+879,S,R,Player 2,375,153
+880,P,R,Player 1,376,153
+881,R,R,Draw,376,153
+882,P,R,Player 1,377,153
+883,P,S,Player 2,377,154
+884,S,S,Draw,377,154
+885,S,S,Draw,377,154
+886,R,R,Draw,377,154
+887,P,R,Player 1,378,154
+888,R,S,Player 1,379,154
+889,S,S,Draw,379,154
+890,S,R,Player 2,379,155
+891,P,R,Player 1,380,155
+892,R,R,Draw,380,155
+893,P,R,Player 1,381,155
+894,P,S,Player 2,381,156
+895,S,S,Draw,381,156
+896,S,S,Draw,381,156
+897,R,R,Draw,381,156
+898,P,R,Player 1,382,156
+899,R,S,Player 1,383,156
+900,S,S,Draw,383,156
+901,S,R,Player 2,383,157
+902,P,R,Player 1,384,157
+903,R,R,Draw,384,157
+904,P,R,Player 1,385,157
+905,P,S,Player 2,385,158
+906,S,S,Draw,385,158
+907,S,S,Draw,385,158
+908,R,R,Draw,385,158
+909,P,R,Player 1,386,158
+910,R,S,Player 1,387,158
+911,S,S,Draw,387,158
+912,S,R,Player 2,387,159
+913,P,R,Player 1,388,159
+914,R,R,Draw,388,159
+915,P,R,Player 1,389,159
+916,P,S,Player 2,389,160
+917,S,S,Draw,389,160
+918,S,S,Draw,389,160
+919,R,R,Draw,389,160
+920,P,R,Player 1,390,160
+921,R,S,Player 1,391,160
+922,S,S,Draw,391,160
+923,S,R,Player 2,391,161
+924,P,R,Player 1,392,161
+925,R,R,Draw,392,161
+926,P,R,Player 1,393,161
+927,P,S,Player 2,393,162
+928,S,S,Draw,393,162
+929,S,S,Draw,393,162
+930,R,R,Draw,393,162
+931,P,R,Player 1,394,162
+932,R,S,Player 1,395,162
+933,S,S,Draw,395,162
+934,S,R,Player 2,395,163
+935,P,R,Player 1,396,163
+936,R,R,Draw,396,163
+937,P,R,Player 1,397,163
+938,P,S,Player 2,397,164
+939,S,S,Draw,397,164
+940,S,S,Draw,397,164
+941,R,R,Draw,397,164
+942,P,R,Player 1,398,164
+943,R,S,Player 1,399,164
+944,S,S,Draw,399,164
+945,S,R,Player 2,399,165
+946,P,R,Player 1,400,165
+947,R,R,Draw,400,165
+948,P,R,Player 1,401,165
+949,P,S,Player 2,401,166
+950,S,S,Draw,401,166
+951,S,S,Draw,401,166
+952,R,R,Draw,401,166
+953,P,R,Player 1,402,166
+954,R,S,Player 1,403,166
+955,S,S,Draw,403,166
+956,S,R,Player 2,403,167
+957,P,R,Player 1,404,167
+958,R,R,Draw,404,167
+959,P,R,Player 1,405,167
+960,P,S,Player 2,405,168
+961,S,S,Draw,405,168
+962,S,S,Draw,405,168
+963,R,R,Draw,405,168
+964,P,R,Player 1,406,168
+965,R,S,Player 1,407,168
+966,S,S,Draw,407,168
+967,S,R,Player 2,407,169
+968,P,R,Player 1,408,169
+969,R,R,Draw,408,169
+970,P,R,Player 1,409,169
+971,P,S,Player 2,409,170
+972,S,S,Draw,409,170
+973,S,S,Draw,409,170
+974,R,R,Draw,409,170
+975,P,R,Player 1,410,170
+976,R,S,Player 1,411,170
+977,S,S,Draw,411,170
+978,S,R,Player 2,411,171
+979,P,R,Player 1,412,171
+980,R,R,Draw,412,171
+981,P,R,Player 1,413,171
+982,P,S,Player 2,413,172
+983,S,S,Draw,413,172
+984,S,S,Draw,413,172
+985,R,R,Draw,413,172
+986,P,R,Player 1,414,172
+987,R,S,Player 1,415,172
+988,S,S,Draw,415,172
+989,S,R,Player 2,415,173
+990,P,R,Player 1,416,173
+991,R,R,Draw,416,173
+992,P,R,Player 1,417,173
+993,P,S,Player 2,417,174
+994,S,S,Draw,417,174
+995,S,S,Draw,417,174
+996,R,R,Draw,417,174
+997,P,R,Player 1,418,174
+998,R,S,Player 1,419,174
+999,S,S,Draw,419,174
+1000,S,R,Player 2,419,175
